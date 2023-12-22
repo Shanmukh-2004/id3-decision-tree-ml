@@ -1,0 +1,14 @@
+Restaurant,Meal,Day,Cost,Vegan,AllergicReaction?
+Kim's,Breakfast,Saturday,Expensive,Yes,No
+Kim's,Lunch,Sunday,Cheap,No,No
+Sam's,Breakfast,Saturday,Expensive,No,Yes
+Kim's,Breakfast,Friday,Cheap,Yes,Yes
+Sam's,Breakfast,Saturday,Cheap,Yes,No
+Kim's,Lunch,Friday,Expensive,Yes,Yes
+Sam's,Breakfast,Saturday,Expensive,No,No
+Sam's,Lunch,Saturday,Cheap,No,Yes
+Kim's,Breakfast,Sunday,Cheap,No,No
+Sam's,Breakfast,Saturday,Expensive,Yes,Yes
+Kim's,Lunch,Friday,Cheap,No,No
+Sam's,Lunch,Saturday,Expensive,No,No
+Kim's,Breakfast,Sunday,Cheap,No,Yes
